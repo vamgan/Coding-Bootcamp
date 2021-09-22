@@ -1,4 +1,4 @@
-//Do pre-order and post order traversal in an array.
+//Do pre-order and post-order traversal in an array.
 //Formula: The children of array[k] are array[2k] and array[2k+1]
 
 import java.io.*;
